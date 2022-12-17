@@ -1,9 +1,12 @@
 ### Hi there 👋
 - 🌱 I’m currently learning 
-      -javascript
-      -react
-      -node
-      -sql
+     * javascript
+     * react
+     * node
+     * sql
+
+- 📫 How to reach me: ...
+     + davejlhale@yahoo.co.uk
 <!--
 **davejlhale/davejlhale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
